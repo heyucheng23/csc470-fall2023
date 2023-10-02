@@ -23,7 +23,7 @@ public class GameController : MonoBehaviour
        
 
         // Instantiate the 2D array that we will use to store the state of the
-        // Cells.
+        // spotObjs.
         spotObjs = new GameObject[amountX,amountY];
 
         // Using nested for loops is a good way to create patterns like (0,0),
@@ -44,13 +44,13 @@ public class GameController : MonoBehaviour
                 spotObjs[x,y] = Instantiate(oj, pos, transform.rotation);
 
                 // (x,y) is the index in the 2D array. Store a reference to the
-                // CellScript of the instantiated object because that is the
+                // SpotController of the instantiated object because that is the
                 // object that contains the information we will be intereated in
                 // (the 'alive' variable.
-                //cells[x, y] = cellObj.GetComponent<CellScript>();
-                //cells[x, y].x = x;
-                //cells[x, y].y = y;
-                //cells[x, y].alive = (Random.value < 0.2f);
+                //spotObjs[x, y] = cellObj.GetComponent<SpotController>();
+                //spotObjs[x, y].x = x;
+                //spotObjs[x, y].y = y;
+                //spotObjs[x, y].alive = (Random.value < 0.2f);
             }
         }
     }
@@ -97,6 +97,11 @@ public class GameController : MonoBehaviour
             }
         }
     }
+
+
+
+
+    
     private void RunGame()
     {
         for (int i = 0; i < amountX; i++)
@@ -106,9 +111,10 @@ public class GameController : MonoBehaviour
                 spotObjs[i, j].GetComponent<SpotController>().count = LifeJudge(i, j);
             }
         }
+
         for (int i = 0; i < amountX; i++)
         {
-            for (int j = 0; i < amountY; j++)
+            for (int j = 0; j < amountY; j++)
             {
                 if (spotObjs[i, j].GetComponent<SpotController>().count == 3)
                 {
@@ -117,13 +123,14 @@ public class GameController : MonoBehaviour
                         spotObjs[i, j].GetComponent<SpotController>().state = 1;
                     }
                 }
+
                 else if (spotObjs[i, j].GetComponent<SpotController>().count == 2)
                 {
 
                 }
                 else
                 {
-                    if (spotObjs[i, j].GetComponent<SpotController>().state > 0)
+                    if (spotObjs[i, j].GetComponent<SpotController>().state >0)
                     {
                         spotObjs[i, j].GetComponent<SpotController>().state = 0;
                     }
@@ -131,7 +138,9 @@ public class GameController : MonoBehaviour
             }
         }
     }
-    private int LifeJudge(int x, int y)
+
+
+    private int LifeJudge(int x, int y) // Check the number of neighbors
     {
         int count = 0;
 
@@ -144,13 +153,13 @@ public class GameController : MonoBehaviour
                     count++;
                 }
             }
-            if (spotObjs[x - 1, y].GetComponent<SpotController>().state > 0)
+            if(spotObjs[x - 1, y ].GetComponent<SpotController>().state > 0)
             {
                 count++;
             }
             if (y < amountY - 1)
             {
-                if (spotObjs[x - 1, y + 1].GetComponent<SpotController>().state > 0)
+                   if (spotObjs[x - 1, y +1].GetComponent<SpotController>().state > 0)
                 {
                     count++;
                 }
@@ -165,7 +174,7 @@ public class GameController : MonoBehaviour
                     count++;
                 }
             }
-            if (spotObjs[x + 1, y].GetComponent<SpotController>().state > 0)
+            if (spotObjs[x + 1, y ].GetComponent<SpotController>().state > 0)
             {
                 count++;
             }
@@ -176,21 +185,24 @@ public class GameController : MonoBehaviour
                     count++;
                 }
             }
-        }
+
+         }
         if (y > 0)
         {
-            if (spotObjs[x, y - 1].GetComponent<SpotController>().state > 0)
+            if (spotObjs[x , y -1].GetComponent<SpotController>().state > 0)
             {
                 count++;
             }
+
         }
         if (y < amountY - 1)
         {
-            if (spotObjs[x, y + 1].GetComponent<SpotController>().state > 0)
-            {
+            if(spotObjs[x , y + 1].GetComponent<SpotController>().state > 0){
                 count++;
             }
         }
+
+
         return count;
     }
 }
