@@ -242,9 +242,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   state: 0
   count: 0
-  sprites:
-  - {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
-  - {fileID: 10917, guid: 0000000000000000f000000000000000, type: 0}
+  alive: {r: 0.38679248, g: 0.26337335, b: 0.22441262, a: 0}
+  dead: {r: 0, g: 0, b: 0, a: 0.39607844}
 --- !u!1 &268214962
 GameObject:
   m_ObjectHideFlags: 0
@@ -892,7 +891,7 @@ Transform:
   m_GameObject: {fileID: 963194225}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalPosition: {x: 615, y: 410, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1087,9 +1086,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ecb5df6adde54426bbc99cabf5387ef0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  amountX: 80
-  amountY: 36
-  canvas: {fileID: 217272677}
+  amountX: 20
+  amountY: 20
+  oj: {fileID: 8549952425645820623, guid: 477898f4011984773a1888c4b978cd8b, type: 3}
   frequency: 1
 --- !u!4 &1594483070
 Transform:
