@@ -76,7 +76,6 @@ public class GameController : MonoBehaviour
 
     public void PlayGame()
     {
-        if (Input.GetKeyDown(KeyCode.Space))
         {
             runOr = true;
         }
