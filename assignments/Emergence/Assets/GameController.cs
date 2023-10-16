@@ -26,8 +26,7 @@ public class GameController : MonoBehaviour
         // spotObjs.
         spotObjs = new GameObject[amountX,amountY];
 
-        // Using nested for loops is a good way to create patterns like (0,0),
-        // (0,1), (0,2), (0,3)... (2,0), (2,1), (2,2).... (5,0), (5,1)... etc.
+
         for (int x = 0; x < amountX; x++)
         {
             for (int y = 0; y < amountY; y++)
@@ -43,7 +42,6 @@ public class GameController : MonoBehaviour
                 pos.z = pos.z + y * (cellWidth + spacing);
                 spotObjs[x,y] = Instantiate(oj, pos, transform.rotation);
 
-                // (x,y) is the index in the 2D array. Store a reference to the
                 // SpotController of the instantiated object because that is the
                 // object that contains the information we will be intereated in
                 // (the 'alive' variable.
