@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/FlyingSystem/HumanoidAircraftFlyingSystem/Demo/Scenes/HumanoidAircraftFlyingSystem.unity
+    guid: 4a7e3028269b7d54aaa8ddc3553407e3
   m_configObjects: {}
