@@ -4,11 +4,13 @@ using UnityEngine;
 
 public class EnemySpawner : MonoBehaviour
 {
+    public static int EnemyAlive;
+    public Wave[] waveEnemy;
     public GameObject enemyPrefab;
-    public float spawnInterval;
+    public float spawnInterval = 1f;
     private float countDown;
     public Transform spawnPoint;
-    private int waveNum = 1;
+    private int waveIndex;
     // Start is called before the first frame update
     void Start()
     {
@@ -18,6 +20,14 @@ public class EnemySpawner : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if(EnemyAlive>0)
+        {
+            return;
+        }
+        if(waveIndex == waveEnemy.Length)
+        {
+            Debug.Log("Win");
+        }
         countDown -= Time.deltaTime;
         if(countDown <=0)
         {
@@ -32,13 +42,19 @@ public class EnemySpawner : MonoBehaviour
        
     }
     IEnumerator WaveEnemy()
-    {
-        for(int i =0; i <waveNum; i++)
+    {   
+        if(waveIndex >= waveEnemy.Length)
         {
-            Instantiate(enemyPrefab, spawnPoint.position, spawnPoint.rotation);
-            yield return new WaitForSeconds(0.5f);
+            yield break;
         }
-        waveNum++;
+        Wave wave = waveEnemy[waveIndex];
+        EnemyAlive = wave.count;
+        for(int i =0; i <wave.count; i++)
+        {
+            Instantiate(wave.enemyPrefab, spawnPoint.position, spawnPoint.rotation);
+            yield return new WaitForSeconds(1/wave.rate);
+        }
+        waveIndex++;
     }
     
 }

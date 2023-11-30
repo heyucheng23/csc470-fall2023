@@ -23,10 +23,15 @@ public class EnemyAI : MonoBehaviour
             pointIndex++;
             if(pointIndex >= PathPoints.pathPoints.Length)
             {
-                Destroy(gameObject);
+                PathEnd();
                 return;
             }
             target = PathPoints.pathPoints[pointIndex];
         }
+    }
+    private void PathEnd()
+    {
+        EnemySpawner.EnemyAlive--;
+        Destroy(gameObject);
     }
 }
