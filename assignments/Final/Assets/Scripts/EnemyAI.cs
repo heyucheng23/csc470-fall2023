@@ -3,14 +3,16 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class EnemyAI : MonoBehaviour
-{
-    public float moveSpeed = 10;
+{   
+    public float startSpeed = 10;
+    private float moveSpeed = 10;
     Transform target;
     private int pointIndex;
     // Start is called before the first frame update
     void Start()
     {
         target = PathPoints.pathPoints[pointIndex];
+        moveSpeed = startSpeed;
     }
 
     // Update is called once per frame
@@ -28,10 +30,19 @@ public class EnemyAI : MonoBehaviour
             }
             target = PathPoints.pathPoints[pointIndex];
         }
+        moveSpeed = startSpeed;
     }
     private void PathEnd()
-    {
+    {   
+        if(PlayerStatus.Lives > 0)
+        {
+            PlayerStatus.Lives--;
+        }
         EnemySpawner.EnemyAlive--;
         Destroy(gameObject);
+    }
+    public void Slow(float pct)
+    {
+        moveSpeed = startSpeed * (1-pct);
     }
 }

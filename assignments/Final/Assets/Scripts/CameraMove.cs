@@ -23,19 +23,19 @@ public class CameraMove : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKey(KeyCode.A) || Input.mousePosition.x < space)
+        if (Input.GetKey(KeyCode.A) || (IsInScreenSpace() && Input.mousePosition.x < space && Input.mousePosition.x >=0))
         {
             transform.position += Vector3.left * Time.deltaTime;
         }
-        if (Input.GetKey(KeyCode.D) || Input.mousePosition.x > Screen.width - space)
+        if (Input.GetKey(KeyCode.D) || (IsInScreenSpace() && Input.mousePosition.x > Screen.width - space && Input.mousePosition.x <= Screen.width))
         {
             transform.position += Vector3.right * Time.deltaTime;
         }
-        if (Input.GetKey(KeyCode.W) || Input.mousePosition.y > Screen.height - space)
+        if (Input.GetKey(KeyCode.W) || (IsInScreenSpace() && Input.mousePosition.y > Screen.height - space && Input.mousePosition.y <= Screen.height))
         {
             transform.position += Vector3.forward * Time.deltaTime;
         }
-        if (Input.GetKey(KeyCode.S) || Input.mousePosition.y < space)
+        if (Input.GetKey(KeyCode.S) || (IsInScreenSpace() && Input.mousePosition.y < space && Input.mousePosition.y >=0))
         {
             transform.position += Vector3.back * Time.deltaTime;
         }
@@ -49,5 +49,10 @@ public class CameraMove : MonoBehaviour
         pos.y = Mathf.Clamp(pos.y, Min_Y, Max_Y);
         pos.z = Mathf.Clamp(pos.z, Min_Z, Max_Z);
         transform.position = pos;
+    }
+
+    bool IsInScreenSpace()
+    {
+        return (Input.mousePosition.x >=0 && Input.mousePosition.x <=Screen.width && Input.mousePosition.y>=0 && Input.mousePosition.y <= Screen.height);
     }
 }

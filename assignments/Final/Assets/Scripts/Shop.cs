@@ -4,7 +4,9 @@ using UnityEngine;
 
 public class Shop : MonoBehaviour
 {
-    public GameObject standardTurrent;
+    public TurretDesign standardTurrent;
+    public TurretDesign missileLauncher;
+    public TurretDesign laserBeamer;
     public void OnPurseStandardTurrent()
     {
         Debug.Log("buying");
@@ -14,12 +16,12 @@ public class Shop : MonoBehaviour
     public void OnPurseMissleTurret()
     {
         Debug.Log("buying");
-        BuildManager.Instance.SelectedTurrent = standardTurrent;
+        BuildManager.Instance.SelectedTurrent = missileLauncher;
     }
 
     public void OnPurseLaserBeamer()
     {
         Debug.Log("buying");
-        BuildManager.Instance.SelectedTurrent = standardTurrent;
+        BuildManager.Instance.SelectedTurrent = laserBeamer;
     }
 }

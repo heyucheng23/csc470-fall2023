@@ -6,8 +6,8 @@ public class BuildManager : MonoBehaviour
 {
     // Start is called before the first frame update
     public static BuildManager Instance;
-    private GameObject selectedTurret;
-    public GameObject SelectedTurrent
+    private TurretDesign selectedTurret;
+    public TurretDesign SelectedTurrent
     {
         get
         {
@@ -16,6 +16,21 @@ public class BuildManager : MonoBehaviour
         set
         {
             selectedTurret = value;
+        }
+    }
+
+    public bool HasEnoughMoney
+    {
+        get
+        {
+            return PlayerStatus.Money >= SelectedTurrent.cost;
+        }
+    }
+    public bool CanBuild
+    {
+        get
+        {
+            return selectedTurret != null && selectedTurret.prefab != null;
         }
     }
     private void Awake()

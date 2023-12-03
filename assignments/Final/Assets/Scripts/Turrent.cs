@@ -9,10 +9,23 @@ public class Turrent : MonoBehaviour
     public Transform target;
     public Transform partRotate;
     public Transform bulletPoint;
-    public GameObject bulletPrefab;
     public float rotSpeed = 10;
+
+    [Header("useBullet")]
+    public GameObject bulletPrefab;
     public float bulletRate =  2f; 
     private float countDown = 0;
+
+    [Header("useLaser")]
+    public bool useLaser = false;
+    public float overTimeHp = 30;
+    public float slowPct = 0.3f;
+    private EnemyAI enemyMove;
+    private EnemyHealth enemyHp;
+    public ParticleSystem impactEffect;
+    public Light pointLight;
+
+    public LineRenderer lineRender;
     // Start is called before the first frame update
     void Start()
     {
@@ -23,11 +36,53 @@ public class Turrent : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (target == null) return;
-        LockTarget();
-        countDown -= Time.deltaTime;
-        if(countDown<=0)
+        if (target == null)
         {
+            if(useLaser)
+            {
+                lineRender.enabled = false;
+                impactEffect.Stop();
+                pointLight.enabled = false;
+            }
+            return;
+        }
+        LockTarget();
+
+        if(useLaser)
+        {
+            Laser();
+        }
+        else
+        { 
+            countDown -= Time.deltaTime;
+            if(countDown<=0)
+            {   
+                Shoot();
+                countDown = 1/bulletRate;
+            }
+        }
+    }
+
+    private void Laser()
+    {   
+        enemyHp.Damage(overTimeHp * Time.deltaTime);
+        enemyMove.Slow(slowPct);
+        if(!lineRender.enabled)
+        {
+            lineRender.enabled = true;
+            impactEffect.Play();
+            pointLight.enabled = true;
+        }
+        lineRender.SetPosition(0,bulletPoint.position);
+        lineRender.SetPosition(1,target.position);
+
+        Vector3 dir = bulletPoint.position - target.position;
+        impactEffect.transform.position = target.position + dir.normalized * 1;
+        impactEffect.transform.rotation = Quaternion.LookRotation(dir.normalized);
+    }
+
+    private void Shoot()
+    {
             Debug.Log("Firing");
             GameObject bulletGo = Instantiate(bulletPrefab, bulletPoint.position, bulletPoint.rotation);
             Bullet bullet = bulletGo.GetComponent<Bullet>();
@@ -36,9 +91,8 @@ public class Turrent : MonoBehaviour
                 bullet = bulletGo.AddComponent<Bullet>();
             }
             bullet.SetTarget(target);
-            countDown = 1/bulletRate;
-        }
     }
+
     private void OnDrawGizmosSelected()
     {   
         Gizmos.color = Color.red;
@@ -61,6 +115,8 @@ public class Turrent : MonoBehaviour
         if(minDistance < range)
         {
             target = nearestEnemy;
+            enemyHp = target.GetComponent<EnemyHealth>();
+            enemyMove = target.GetComponent<EnemyAI>();
         }
         else
         {

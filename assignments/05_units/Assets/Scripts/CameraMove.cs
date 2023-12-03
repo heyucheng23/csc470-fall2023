@@ -23,7 +23,7 @@ public class CameraMove : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKey(KeyCode.A) || Input.mousePosition.x < space)
+        if (Input.GetKey(KeyCode.A) || Input.mousePosition.x < space && Input.mousePosition)
         {
             transform.position += Vector3.left * Time.deltaTime;
         }

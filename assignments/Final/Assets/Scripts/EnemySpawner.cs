@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class EnemySpawner : MonoBehaviour
 {
@@ -11,6 +12,8 @@ public class EnemySpawner : MonoBehaviour
     private float countDown;
     public Transform spawnPoint;
     private int waveIndex;
+
+    public Text timerText;
     // Start is called before the first frame update
     void Start()
     {
@@ -19,7 +22,12 @@ public class EnemySpawner : MonoBehaviour
 
     // Update is called once per frame
     void Update()
-    {
+    {   
+        if(GameManager.GameIsOver)
+        {
+            EnemyAlive = 0;
+            return;
+        }
         if(EnemyAlive>0)
         {
             return;
@@ -29,6 +37,9 @@ public class EnemySpawner : MonoBehaviour
             Debug.Log("Win");
         }
         countDown -= Time.deltaTime;
+        countDown = Mathf.Clamp(countDown,0,Mathf.Infinity);
+        string time = string.Format("{0:00.00}", countDown);
+        timerText.text = time;
         if(countDown <=0)
         {
             countDown = spawnInterval;
@@ -47,6 +58,7 @@ public class EnemySpawner : MonoBehaviour
         {
             yield break;
         }
+        PlayerStatus.Rounds++;
         Wave wave = waveEnemy[waveIndex];
         EnemyAlive = wave.count;
         for(int i =0; i <wave.count; i++)
