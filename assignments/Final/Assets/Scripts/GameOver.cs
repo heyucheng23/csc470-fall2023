@@ -22,6 +22,7 @@ public class GameOver : MonoBehaviour
     public void MenuBtn()
     {
         Debug.Log("Menu");
+        sceneFader.FadeOut("MainMenu");
     }
     IEnumerator ShowRoundsText()
     {
