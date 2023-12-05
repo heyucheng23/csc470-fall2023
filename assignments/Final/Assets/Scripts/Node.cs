@@ -9,7 +9,10 @@ public class Node : MonoBehaviour
     private Color initColor;
     public Color notEnoughMoneyColor;
     private Renderer render;
-    public GameObject turrentPrefab;
+    public GameObject turretPrefab;
+    private GameObject turret;
+    public Vector3 uiOffset = new Vector3(0,0,0);
+    public TurretDesign selectedTurretDesign;
 
     // Start is called before the first frame update
     void Start()
@@ -43,8 +46,14 @@ public class Node : MonoBehaviour
     private void OnMouseDown()
     {
         if(EventSystem.current.IsPointerOverGameObject()) return;
+        if(turret !=null)
+        {
+            BuildManager.Instance.SelectNode(this);
+            return;
+        }
+        BuildManager.Instance.DeSelect();
         if (!BuildManager.Instance.CanBuild) return;
-        if(PlayerStatus.Money >= BuildManager.Instance.SelectedTurrent.cost)
+        if(PlayerStatus.Money >= BuildManager.Instance.SelectedTurret.cost)
         {
             BuildTurret();
             Debug.Log(PlayerStatus.Money);
@@ -57,12 +66,39 @@ public class Node : MonoBehaviour
     }
     public void BuildTurret()
     {
-        PlayerStatus.Money -= BuildManager.Instance.SelectedTurrent.cost;
-        Instantiate(BuildManager.Instance.SelectedTurrent.prefab, GetPosition(), Quaternion.identity);
+        PlayerStatus.Money -= BuildManager.Instance.SelectedTurret.cost;
+        GameObject _turret = Instantiate(BuildManager.Instance.SelectedTurret.prefab, GetPosition(), Quaternion.identity);
+        turret = _turret;
+        selectedTurretDesign = BuildManager.Instance.SelectedTurret;
     }
 
     private Vector3 GetPosition()
     {
         return transform.position;
+    }
+    public Vector3 GetUiOffsetPosition()
+    {
+        return transform.position + uiOffset;
+    }
+
+    public void UpgradeTurret()
+       
+    {
+        if(PlayerStatus.Money < selectedTurretDesign.upgradeCost)
+        {
+            Debug.Log("Not enough money");
+            return;
+        }
+        PlayerStatus.Money -= selectedTurretDesign.upgradeCost;
+        Destroy(turret);
+        GameObject _turret = Instantiate(selectedTurretDesign.upgradedPrefab,GetPosition(), Quaternion.identity);
+        turret = _turret;
+    }
+
+    public void SellTurret()
+    {
+        PlayerStatus.Money += selectedTurretDesign.SellAmount;
+        Destroy(turret);
+        selectedTurretDesign = null;
     }
 }

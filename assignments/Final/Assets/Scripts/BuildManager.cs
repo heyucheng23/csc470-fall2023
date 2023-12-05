@@ -6,8 +6,12 @@ public class BuildManager : MonoBehaviour
 {
     // Start is called before the first frame update
     public static BuildManager Instance;
+    private Node selectedNode;
+    public NodeUI nodeUI;
     private TurretDesign selectedTurret;
-    public TurretDesign SelectedTurrent
+
+
+    public TurretDesign SelectedTurret
     {
         get
         {
@@ -23,7 +27,7 @@ public class BuildManager : MonoBehaviour
     {
         get
         {
-            return PlayerStatus.Money >= SelectedTurrent.cost;
+            return PlayerStatus.Money >= SelectedTurret.cost;
         }
     }
     public bool CanBuild
@@ -37,14 +41,23 @@ public class BuildManager : MonoBehaviour
     {
         Instance = this;
     }
-    void Start()
+
+    public void SelectNode(Node node)
     {
-        
+        if(selectedNode == node)
+        {
+            DeSelect();
+            return;
+        }
+        selectedTurret = null;
+        selectedNode = node;
+        nodeUI.SetTarget(selectedNode);
+        nodeUI.ShowUI();
     }
 
-    // Update is called once per frame
-    void Update()
+    public void DeSelect()
     {
-        
+        selectedNode = null;
+        nodeUI.HideUI();
     }
 }

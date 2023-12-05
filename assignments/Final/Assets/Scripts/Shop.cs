@@ -4,24 +4,24 @@ using UnityEngine;
 
 public class Shop : MonoBehaviour
 {
-    public TurretDesign standardTurrent;
+    public TurretDesign standardTurret;
     public TurretDesign missileLauncher;
     public TurretDesign laserBeamer;
-    public void OnPurseStandardTurrent()
+    public void OnPurseStandardTurret()
     {
         Debug.Log("buying");
-        BuildManager.Instance.SelectedTurrent = standardTurrent;
+        BuildManager.Instance.SelectedTurret = standardTurret;
     }
 
     public void OnPurseMissleTurret()
     {
         Debug.Log("buying");
-        BuildManager.Instance.SelectedTurrent = missileLauncher;
+        BuildManager.Instance.SelectedTurret = missileLauncher;
     }
 
     public void OnPurseLaserBeamer()
     {
         Debug.Log("buying");
-        BuildManager.Instance.SelectedTurrent = laserBeamer;
+        BuildManager.Instance.SelectedTurret = laserBeamer;
     }
 }

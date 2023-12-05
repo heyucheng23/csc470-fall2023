@@ -1,11 +1,15 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class NodeUI : MonoBehaviour
 {
     public CanvasGroup canvasGroup;
     public GameObject ui;
+    private Node target;
+    public Text costText;
+    public Text sellText;
     // Start is called before the first frame update
     void Start()
     {
@@ -15,14 +19,7 @@ public class NodeUI : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Input.GetKeyDown(KeyCode.A))
-        {
-            ShowUI();
-        }
-        if(Input.GetKeyDown(KeyCode.B))
-        {
-            HideUI();
-        }
+
     }
     
     public void ShowUI()
@@ -55,5 +52,24 @@ public class NodeUI : MonoBehaviour
             yield return null;
         }
         ui.SetActive(false);
+    }
+    public void SetTarget(Node _target)
+    {
+        target = _target;
+        transform.position = target.GetUiOffsetPosition();
+        costText.text = "   cost:" + target.selectedTurretDesign.upgradeCost;
+        sellText.text = "   sell" + "$" + target.selectedTurretDesign.SellAmount;
+    }
+
+    public void UpgradeBtnClicked()
+    {
+        target.UpgradeTurret();
+        BuildManager.Instance.DeSelect();
+    }
+
+    public void SellBtnClicked()
+    {
+        target.SellTurret();
+        BuildManager.Instance.DeSelect();
     }
 }

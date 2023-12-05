@@ -300,7 +300,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &32345134
 GameObject:
   m_ObjectHideFlags: 0
@@ -421,7 +427,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &39475734
 GameObject:
   m_ObjectHideFlags: 0
@@ -647,7 +659,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &51241097
 GameObject:
   m_ObjectHideFlags: 0
@@ -768,7 +786,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &66683442
 GameObject:
   m_ObjectHideFlags: 0
@@ -889,7 +913,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &69993697
 GameObject:
   m_ObjectHideFlags: 0
@@ -1010,7 +1040,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &70513696
 GameObject:
   m_ObjectHideFlags: 0
@@ -1131,7 +1167,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &73220595
 GameObject:
   m_ObjectHideFlags: 0
@@ -1283,7 +1325,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!4 &79119619 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4816894162828340, guid: 19f0d44f83181c64aaee4796197eb52b, type: 3}
@@ -1424,7 +1472,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &115626588
 GameObject:
   m_ObjectHideFlags: 0
@@ -1545,7 +1599,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &116464256
 GameObject:
   m_ObjectHideFlags: 0
@@ -1666,7 +1726,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &116852588
 GameObject:
   m_ObjectHideFlags: 0
@@ -1894,7 +1960,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &122735776
 GameObject:
   m_ObjectHideFlags: 0
@@ -2015,7 +2087,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &125080722
 GameObject:
   m_ObjectHideFlags: 0
@@ -2199,7 +2277,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &132565382
 GameObject:
   m_ObjectHideFlags: 0
@@ -2320,7 +2404,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &136162383
 GameObject:
   m_ObjectHideFlags: 0
@@ -2705,7 +2795,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!4 &162547283 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4483125263725384, guid: f27f59872961e1c4893033bb8cfb1a24, type: 3}
@@ -2831,7 +2927,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &168098620
 GameObject:
   m_ObjectHideFlags: 0
@@ -3028,7 +3130,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &179389746
 GameObject:
   m_ObjectHideFlags: 0
@@ -3242,7 +3350,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &191643680
 GameObject:
   m_ObjectHideFlags: 0
@@ -3363,7 +3477,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &195109816
 GameObject:
   m_ObjectHideFlags: 0
@@ -3484,7 +3604,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!4 &225802201 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4483125263725384, guid: f27f59872961e1c4893033bb8cfb1a24, type: 3}
@@ -3610,7 +3736,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &246114879
 GameObject:
   m_ObjectHideFlags: 0
@@ -3731,7 +3863,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &265399554
 GameObject:
   m_ObjectHideFlags: 0
@@ -3881,6 +4019,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 285462456}
+  - component: {fileID: 285462457}
   m_Layer: 0
   m_Name: NodeUI
   m_TagString: Untagged
@@ -3904,6 +4043,22 @@ Transform:
   - {fileID: 1444421374}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &285462457
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 285462455}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bff712f7e8123a4a81d7aa5d318c2f7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  canvasGroup: {fileID: 1444421378}
+  ui: {fileID: 1444421373}
+  costText: {fileID: 1438747193}
+  sellText: {fileID: 791561711}
 --- !u!1 &293979485
 GameObject:
   m_ObjectHideFlags: 0
@@ -4024,7 +4179,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &295152142
 GameObject:
   m_ObjectHideFlags: 0
@@ -4251,7 +4412,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &315246839
 GameObject:
   m_ObjectHideFlags: 0
@@ -4372,7 +4539,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &323231221
 GameObject:
   m_ObjectHideFlags: 0
@@ -4493,7 +4666,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &355552529
 GameObject:
   m_ObjectHideFlags: 0
@@ -4614,7 +4793,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &356113357
 GameObject:
   m_ObjectHideFlags: 0
@@ -4735,7 +4920,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1001 &363341452
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4913,7 +5104,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &380645594
 GameObject:
   m_ObjectHideFlags: 0
@@ -5034,7 +5231,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &383639507
 GameObject:
   m_ObjectHideFlags: 0
@@ -5155,7 +5358,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &386046959
 GameObject:
   m_ObjectHideFlags: 0
@@ -5276,7 +5485,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &390141394
 GameObject:
   m_ObjectHideFlags: 0
@@ -5397,7 +5612,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &394963075
 GameObject:
   m_ObjectHideFlags: 0
@@ -5518,7 +5739,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &395719390
 GameObject:
   m_ObjectHideFlags: 0
@@ -5548,6 +5775,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 713ef15279f09794a9411dd54b115f29, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  nodeUI: {fileID: 285462457}
 --- !u!4 &395719392
 Transform:
   m_ObjectHideFlags: 0
@@ -5688,7 +5916,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &434755256
 GameObject:
   m_ObjectHideFlags: 0
@@ -5840,7 +6074,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &444777359
 GameObject:
   m_ObjectHideFlags: 0
@@ -6192,7 +6432,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &459029914
 GameObject:
   m_ObjectHideFlags: 0
@@ -6313,7 +6559,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &469263330
 GameObject:
   m_ObjectHideFlags: 0
@@ -6434,7 +6686,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &471656125
 GameObject:
   m_ObjectHideFlags: 0
@@ -6555,7 +6813,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &473759102
 GameObject:
   m_ObjectHideFlags: 0
@@ -6676,7 +6940,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &477534839
 GameObject:
   m_ObjectHideFlags: 0
@@ -6797,7 +7067,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &478950053
 GameObject:
   m_ObjectHideFlags: 0
@@ -6918,7 +7194,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &486985261
 GameObject:
   m_ObjectHideFlags: 0
@@ -7201,7 +7483,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &500512420
 GameObject:
   m_ObjectHideFlags: 0
@@ -7322,7 +7610,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &503228357
 GameObject:
   m_ObjectHideFlags: 0
@@ -7443,7 +7737,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &514785382
 GameObject:
   m_ObjectHideFlags: 0
@@ -7564,7 +7864,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1001 &517607868
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7742,7 +8048,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1001 &519225452
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8025,7 +8337,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &542242764
 GameObject:
   m_ObjectHideFlags: 0
@@ -8146,7 +8464,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &556735559
 GameObject:
   m_ObjectHideFlags: 0
@@ -8267,7 +8591,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &560828564
 GameObject:
   m_ObjectHideFlags: 0
@@ -8480,7 +8810,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &572686329
 GameObject:
   m_ObjectHideFlags: 0
@@ -8601,7 +8937,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &581616586
 GameObject:
   m_ObjectHideFlags: 0
@@ -8722,7 +9064,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &592656123
 GameObject:
   m_ObjectHideFlags: 0
@@ -8843,7 +9191,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &607140692
 GameObject:
   m_ObjectHideFlags: 0
@@ -8964,7 +9318,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &608009966
 GameObject:
   m_ObjectHideFlags: 0
@@ -9085,7 +9445,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1001 &609411359
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9263,7 +9629,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!4 &637505842 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4483125263725384, guid: f27f59872961e1c4893033bb8cfb1a24, type: 3}
@@ -9389,7 +9761,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &640914502
 GameObject:
   m_ObjectHideFlags: 0
@@ -9510,7 +9888,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &645364277
 GameObject:
   m_ObjectHideFlags: 0
@@ -9631,7 +10015,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &651407736
 GameObject:
   m_ObjectHideFlags: 0
@@ -9805,7 +10195,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &654036495
 GameObject:
   m_ObjectHideFlags: 0
@@ -9926,7 +10322,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!114 &655984293 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 8292464793789488830, guid: 2d2fa031767ee5f46b9f6262ccc5977c, type: 3}
@@ -10058,7 +10460,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &666279815
 GameObject:
   m_ObjectHideFlags: 0
@@ -10179,7 +10587,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &674578882
 GameObject:
   m_ObjectHideFlags: 0
@@ -10379,7 +10793,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &694154919
 GameObject:
   m_ObjectHideFlags: 0
@@ -10500,7 +10920,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!4 &695491035 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4483125263725384, guid: f27f59872961e1c4893033bb8cfb1a24, type: 3}
@@ -10721,7 +11147,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -10936,7 +11368,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &709588717
 GameObject:
   m_ObjectHideFlags: 0
@@ -11057,7 +11495,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &709833997
 GameObject:
   m_ObjectHideFlags: 0
@@ -11287,7 +11731,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &721699275
 GameObject:
   m_ObjectHideFlags: 0
@@ -11408,7 +11858,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &723218467
 GameObject:
   m_ObjectHideFlags: 0
@@ -11529,7 +11985,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &729984036
 GameObject:
   m_ObjectHideFlags: 0
@@ -11650,7 +12112,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &731624557
 GameObject:
   m_ObjectHideFlags: 0
@@ -11802,7 +12270,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1001 &735736937
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11980,7 +12454,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!4 &744517994 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4483125263725384, guid: f27f59872961e1c4893033bb8cfb1a24, type: 3}
@@ -12106,7 +12586,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &787220115
 GameObject:
   m_ObjectHideFlags: 0
@@ -12227,7 +12713,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &791561709
 GameObject:
   m_ObjectHideFlags: 0
@@ -12240,7 +12732,7 @@ GameObject:
   - component: {fileID: 791561712}
   - component: {fileID: 791561711}
   m_Layer: 0
-  m_Name: Text (Legacy)
+  m_Name: SellText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12427,7 +12919,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1001 &796168903
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12763,7 +13261,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!4 &822996536 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4483125263725384, guid: f27f59872961e1c4893033bb8cfb1a24, type: 3}
@@ -13089,7 +13593,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &833531114
 GameObject:
   m_ObjectHideFlags: 0
@@ -13210,7 +13720,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1001 &833707264
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13388,7 +13904,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1001 &853421123
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13566,7 +14088,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!224 &854931666 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 7448618559838716564, guid: d66dec3600f73154d8b09d4beab04407, type: 3}
@@ -13692,7 +14220,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &855602514
 GameObject:
   m_ObjectHideFlags: 0
@@ -13813,7 +14347,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &860778312
 GameObject:
   m_ObjectHideFlags: 0
@@ -13934,7 +14474,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &863077201
 GameObject:
   m_ObjectHideFlags: 0
@@ -14055,7 +14601,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &877872327
 GameObject:
   m_ObjectHideFlags: 0
@@ -14176,7 +14728,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &893711621
 GameObject:
   m_ObjectHideFlags: 0
@@ -14297,7 +14855,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &905883084
 GameObject:
   m_ObjectHideFlags: 0
@@ -14418,7 +14982,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &915981399
 GameObject:
   m_ObjectHideFlags: 0
@@ -14673,7 +15243,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &917936592
 GameObject:
   m_ObjectHideFlags: 0
@@ -14896,7 +15472,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &929435571
 GameObject:
   m_ObjectHideFlags: 0
@@ -15017,7 +15599,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &932019258
 GameObject:
   m_ObjectHideFlags: 0
@@ -15138,7 +15726,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &948389749
 GameObject:
   m_ObjectHideFlags: 0
@@ -15259,7 +15853,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
@@ -15530,7 +16130,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &982395478
 GameObject:
   m_ObjectHideFlags: 0
@@ -15651,7 +16257,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!224 &988724502 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 7448618559838716564, guid: d66dec3600f73154d8b09d4beab04407, type: 3}
@@ -15787,7 +16399,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1010479518
 GameObject:
   m_ObjectHideFlags: 0
@@ -15908,7 +16526,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1011972886
 GameObject:
   m_ObjectHideFlags: 0
@@ -16029,7 +16653,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1012702348
 GameObject:
   m_ObjectHideFlags: 0
@@ -16150,7 +16780,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1025066385
 GameObject:
   m_ObjectHideFlags: 0
@@ -16271,7 +16907,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1027873827
 GameObject:
   m_ObjectHideFlags: 0
@@ -16392,7 +17034,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1033100785
 GameObject:
   m_ObjectHideFlags: 0
@@ -16513,7 +17161,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1041879327
 GameObject:
   m_ObjectHideFlags: 0
@@ -16739,7 +17393,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1048097724
 GameObject:
   m_ObjectHideFlags: 0
@@ -16860,7 +17520,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1051263290
 GameObject:
   m_ObjectHideFlags: 0
@@ -16981,7 +17647,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1061060381
 GameObject:
   m_ObjectHideFlags: 0
@@ -17133,7 +17805,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1065649023
 GameObject:
   m_ObjectHideFlags: 0
@@ -17254,7 +17932,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1066173413
 GameObject:
   m_ObjectHideFlags: 0
@@ -17480,7 +18164,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1066442380
 GameObject:
   m_ObjectHideFlags: 0
@@ -17843,7 +18533,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1074345174
 GameObject:
   m_ObjectHideFlags: 0
@@ -17964,7 +18660,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1083200848
 GameObject:
   m_ObjectHideFlags: 0
@@ -18161,7 +18863,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!4 &1093087349 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4483125263725384, guid: f27f59872961e1c4893033bb8cfb1a24, type: 3}
@@ -18344,7 +19052,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1099224308
 GameObject:
   m_ObjectHideFlags: 0
@@ -18465,7 +19179,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1107348842
 GameObject:
   m_ObjectHideFlags: 0
@@ -18586,7 +19306,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1119650893
 GameObject:
   m_ObjectHideFlags: 0
@@ -18707,7 +19433,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1122919714
 GameObject:
   m_ObjectHideFlags: 0
@@ -18828,7 +19560,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1126721166
 GameObject:
   m_ObjectHideFlags: 0
@@ -19292,7 +20030,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1174401608
 GameObject:
   m_ObjectHideFlags: 0
@@ -19547,7 +20291,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1188703062
 GameObject:
   m_ObjectHideFlags: 0
@@ -19668,7 +20418,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1194906400
 GameObject:
   m_ObjectHideFlags: 0
@@ -19789,7 +20545,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1211435377
 GameObject:
   m_ObjectHideFlags: 0
@@ -19910,7 +20672,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1001 &1212407172
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20119,7 +20887,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1225858049
 GameObject:
   m_ObjectHideFlags: 0
@@ -20240,7 +21014,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!4 &1227161654 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4483125263725384, guid: f27f59872961e1c4893033bb8cfb1a24, type: 3}
@@ -20366,7 +21146,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1236092094
 GameObject:
   m_ObjectHideFlags: 0
@@ -20487,7 +21273,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1246677113
 GameObject:
   m_ObjectHideFlags: 0
@@ -20798,7 +21590,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1282319449
 GameObject:
   m_ObjectHideFlags: 0
@@ -20919,7 +21717,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1291293152
 GameObject:
   m_ObjectHideFlags: 0
@@ -21040,7 +21844,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1298284191
 GameObject:
   m_ObjectHideFlags: 0
@@ -21161,7 +21971,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!4 &1300014795 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4483125263725384, guid: f27f59872961e1c4893033bb8cfb1a24, type: 3}
@@ -21287,7 +22103,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1311350153
 GameObject:
   m_ObjectHideFlags: 0
@@ -21408,7 +22230,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1321847715
 GameObject:
   m_ObjectHideFlags: 0
@@ -21529,7 +22357,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1001 &1328373352
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21778,7 +22612,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1332852061
 GameObject:
   m_ObjectHideFlags: 0
@@ -21899,7 +22739,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!4 &1336831160 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4483125263725384, guid: f27f59872961e1c4893033bb8cfb1a24, type: 3}
@@ -22130,7 +22976,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!4 &1363774936 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4483125263725384, guid: f27f59872961e1c4893033bb8cfb1a24, type: 3}
@@ -22256,7 +23108,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1396780112
 GameObject:
   m_ObjectHideFlags: 0
@@ -22377,7 +23235,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1398152150
 GameObject:
   m_ObjectHideFlags: 0
@@ -22529,7 +23393,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1405693694
 GameObject:
   m_ObjectHideFlags: 0
@@ -22650,7 +23520,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1409629853
 GameObject:
   m_ObjectHideFlags: 0
@@ -22771,7 +23647,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1001 &1412206103
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -22949,7 +23831,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1428008224
 GameObject:
   m_ObjectHideFlags: 0
@@ -23070,7 +23958,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1435539616
 GameObject:
   m_ObjectHideFlags: 0
@@ -23191,7 +24085,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1438747191
 GameObject:
   m_ObjectHideFlags: 0
@@ -23204,7 +24104,7 @@ GameObject:
   - component: {fileID: 1438747194}
   - component: {fileID: 1438747193}
   m_Layer: 0
-  m_Name: Text (Legacy)
+  m_Name: CostText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23391,7 +24291,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1444421373
 GameObject:
   m_ObjectHideFlags: 0
@@ -23404,13 +24310,14 @@ GameObject:
   - component: {fileID: 1444421377}
   - component: {fileID: 1444421376}
   - component: {fileID: 1444421375}
+  - component: {fileID: 1444421378}
   m_Layer: 0
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1444421374
 RectTransform:
   m_ObjectHideFlags: 0
@@ -23419,7 +24326,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1444421373}
   m_LocalRotation: {x: 0.53729963, y: 0, z: 0, w: 0.8433915}
-  m_LocalPosition: {x: 0, y: 0, z: 5.3337}
+  m_LocalPosition: {x: 0, y: 0, z: 6.65}
   m_LocalScale: {x: 0.1, y: 0.1, z: 0.1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -23428,7 +24335,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 65, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 2.9818, y: 2.4872}
+  m_AnchoredPosition: {x: 0.55, y: 0.57}
   m_SizeDelta: {x: 159.6347, y: 217.7026}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1444421375
@@ -23494,6 +24401,18 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+--- !u!225 &1444421378
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1444421373}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
 --- !u!1001 &1445220206
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -23732,7 +24651,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1474203774
 GameObject:
   m_ObjectHideFlags: 0
@@ -23853,7 +24778,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1478228102
 GameObject:
   m_ObjectHideFlags: 0
@@ -23974,7 +24905,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1488612463
 GameObject:
   m_ObjectHideFlags: 0
@@ -24095,7 +25032,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1492477576
 GameObject:
   m_ObjectHideFlags: 0
@@ -24314,7 +25257,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1513444122
 GameObject:
   m_ObjectHideFlags: 0
@@ -24435,7 +25384,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!4 &1525786792 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4483125263725384, guid: f27f59872961e1c4893033bb8cfb1a24, type: 3}
@@ -24561,7 +25516,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1530902329
 GameObject:
   m_ObjectHideFlags: 0
@@ -24682,7 +25643,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1537904931
 GameObject:
   m_ObjectHideFlags: 0
@@ -24803,7 +25770,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1543193863
 GameObject:
   m_ObjectHideFlags: 0
@@ -25003,7 +25976,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1001 &1545030593
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -25181,7 +26160,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1548141123
 GameObject:
   m_ObjectHideFlags: 0
@@ -25302,7 +26287,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1548525386
 GameObject:
   m_ObjectHideFlags: 0
@@ -25423,7 +26414,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1548632431
 GameObject:
   m_ObjectHideFlags: 0
@@ -25544,7 +26541,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1553240796
 GameObject:
   m_ObjectHideFlags: 0
@@ -25665,7 +26668,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1557024889
 GameObject:
   m_ObjectHideFlags: 0
@@ -25700,7 +26709,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 243.2, y: 20.8}
+  m_AnchoredPosition: {x: 245.8, y: 33.66}
   m_SizeDelta: {x: 37.1, y: 35.9}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1557024891
@@ -25923,7 +26932,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1632077562
 GameObject:
   m_ObjectHideFlags: 0
@@ -26044,7 +27059,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1001 &1633906828
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -26222,7 +27243,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1637313707
 GameObject:
   m_ObjectHideFlags: 0
@@ -26343,7 +27370,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1638359719
 GameObject:
   m_ObjectHideFlags: 0
@@ -26464,7 +27497,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1001 &1641779755
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -26642,7 +27681,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1659856420
 GameObject:
   m_ObjectHideFlags: 0
@@ -26763,7 +27808,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1671994910
 GameObject:
   m_ObjectHideFlags: 0
@@ -26884,7 +27935,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1691055010
 GameObject:
   m_ObjectHideFlags: 0
@@ -27005,7 +28062,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1709993781
 GameObject:
   m_ObjectHideFlags: 0
@@ -27126,7 +28189,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1713329827
 GameObject:
   m_ObjectHideFlags: 0
@@ -27237,7 +28306,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1713329831}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 285462455}
+        m_TargetAssemblyTypeName: 
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1713329831
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27458,7 +28539,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1730349995
 GameObject:
   m_ObjectHideFlags: 0
@@ -27579,7 +28666,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1735781260
 GameObject:
   m_ObjectHideFlags: 0
@@ -27700,7 +28793,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1736195815
 GameObject:
   m_ObjectHideFlags: 0
@@ -27821,7 +28920,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1745862117
 GameObject:
   m_ObjectHideFlags: 0
@@ -27942,7 +29047,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!4 &1774698343 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4483125263725384, guid: f27f59872961e1c4893033bb8cfb1a24, type: 3}
@@ -28068,7 +29179,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1001 &1783323163
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -28372,7 +29489,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1813876490
 GameObject:
   m_ObjectHideFlags: 0
@@ -28493,7 +29616,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!4 &1818075099 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4483125263725384, guid: f27f59872961e1c4893033bb8cfb1a24, type: 3}
@@ -28665,7 +29794,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1834120807
 GameObject:
   m_ObjectHideFlags: 0
@@ -28786,7 +29921,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1847127843
 GameObject:
   m_ObjectHideFlags: 0
@@ -28907,7 +30048,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1851409590
 GameObject:
   m_ObjectHideFlags: 0
@@ -29133,7 +30280,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1866179935
 GameObject:
   m_ObjectHideFlags: 0
@@ -29254,7 +30407,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1872905712
 GameObject:
   m_ObjectHideFlags: 0
@@ -29375,7 +30534,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1877374115
 GameObject:
   m_ObjectHideFlags: 0
@@ -29601,7 +30766,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1001 &1888336612
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -29779,7 +30950,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1902582758
 GameObject:
   m_ObjectHideFlags: 0
@@ -29900,7 +31077,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!224 &1906304783 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 7448618559838716564, guid: d66dec3600f73154d8b09d4beab04407, type: 3}
@@ -30026,7 +31209,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1923772009
 GameObject:
   m_ObjectHideFlags: 0
@@ -30147,7 +31336,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1934923132
 GameObject:
   m_ObjectHideFlags: 0
@@ -30428,7 +31623,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1953990930
 GameObject:
   m_ObjectHideFlags: 0
@@ -30549,7 +31750,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1001 &1958836498
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -30940,7 +32147,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &1988443532
 GameObject:
   m_ObjectHideFlags: 0
@@ -31186,7 +32399,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1001 &2020926502
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -31421,7 +32640,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1001 &2029707984
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -31599,7 +32824,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &2055614328
 GameObject:
   m_ObjectHideFlags: 0
@@ -31716,15 +32947,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fbcb55b5f5d410a4c9eae561b4dcf15e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  standardTurrent:
+  standardTurret:
     prefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+    upgradedPrefab: {fileID: 0}
     cost: 100
+    upgradeCost: 45
   missileLauncher:
     prefab: {fileID: 2068814384226960795, guid: 9a4133a36ec18714dbae6f51fc689fd5, type: 3}
+    upgradedPrefab: {fileID: 0}
     cost: 200
+    upgradeCost: 60
   laserBeamer:
     prefab: {fileID: 7882820195712338625, guid: 53605eb690014b04a87a15f8953144b5, type: 3}
+    upgradedPrefab: {fileID: 0}
     cost: 300
+    upgradeCost: 100
 --- !u!1 &2058903973
 GameObject:
   m_ObjectHideFlags: 0
@@ -31845,7 +33082,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &2061379709
 GameObject:
   m_ObjectHideFlags: 0
@@ -31966,7 +33209,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &2065842354
 GameObject:
   m_ObjectHideFlags: 0
@@ -32077,7 +33326,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2065842358}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 285462455}
+        m_TargetAssemblyTypeName: 
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2065842358
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32293,7 +33554,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &2077841004
 GameObject:
   m_ObjectHideFlags: 0
@@ -32414,7 +33681,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &2080464546
 GameObject:
   m_ObjectHideFlags: 0
@@ -32535,7 +33808,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &2081353991
 GameObject:
   m_ObjectHideFlags: 0
@@ -32656,7 +33935,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!4 &2088853092 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2554758460958920656, guid: c9b6be18aa4eaa04ba10e3c2829cd38c, type: 3}
@@ -32676,7 +33961,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0, g: 0, b: 0, a: 0}
-  turrentPrefab: {fileID: 0}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!4 &2095160024 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4483125263725384, guid: f27f59872961e1c4893033bb8cfb1a24, type: 3}
@@ -32878,7 +34169,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &2123711386
 GameObject:
   m_ObjectHideFlags: 0
@@ -32999,7 +34296,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &2129714577
 GameObject:
   m_ObjectHideFlags: 0
@@ -33120,7 +34423,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &2133055729
 GameObject:
   m_ObjectHideFlags: 0
@@ -33241,7 +34550,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &2133610412
 GameObject:
   m_ObjectHideFlags: 0
@@ -33362,7 +34677,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!1 &2138309955
 GameObject:
   m_ObjectHideFlags: 0
@@ -33483,7 +34804,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   notEnoughMoneyColor: {r: 0.8962264, g: 0.1986917, b: 0.1986917, a: 0}
-  turrentPrefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
+  turretPrefab: {fileID: 0}
+  uiOffset: {x: 0, y: 0, z: 0}
+  selectedTurretDesign:
+    prefab: {fileID: 0}
+    upgradedPrefab: {fileID: 0}
+    cost: 0
+    upgradeCost: 0
 --- !u!4 &2145423071 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4483125263725384, guid: f27f59872961e1c4893033bb8cfb1a24, type: 3}
@@ -33519,7 +34846,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7015009064391919267, guid: d66dec3600f73154d8b09d4beab04407, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: OnPurseStandardTurrent
+      value: OnPurseStandardTurret
       objectReference: {fileID: 0}
     - target: {fileID: 7015009064391919267, guid: d66dec3600f73154d8b09d4beab04407, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
