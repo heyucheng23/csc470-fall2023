@@ -250,6 +250,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &32345134
 GameObject:
   m_ObjectHideFlags: 0
@@ -377,6 +378,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &39475734
 GameObject:
   m_ObjectHideFlags: 0
@@ -609,6 +611,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &51241097
 GameObject:
   m_ObjectHideFlags: 0
@@ -736,6 +739,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &66683442
 GameObject:
   m_ObjectHideFlags: 0
@@ -863,6 +867,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &69993697
 GameObject:
   m_ObjectHideFlags: 0
@@ -990,6 +995,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &70513696
 GameObject:
   m_ObjectHideFlags: 0
@@ -1117,6 +1123,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &73220595
 GameObject:
   m_ObjectHideFlags: 0
@@ -1275,6 +1282,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &110150210
 GameObject:
   m_ObjectHideFlags: 0
@@ -1402,6 +1410,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &115626588
 GameObject:
   m_ObjectHideFlags: 0
@@ -1529,6 +1538,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &116464256
 GameObject:
   m_ObjectHideFlags: 0
@@ -1656,6 +1666,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &116852588
 GameObject:
   m_ObjectHideFlags: 0
@@ -1885,6 +1896,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &122735776
 GameObject:
   m_ObjectHideFlags: 0
@@ -2012,6 +2024,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &130546413
 GameObject:
   m_ObjectHideFlags: 0
@@ -2139,6 +2152,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &132565382
 GameObject:
   m_ObjectHideFlags: 0
@@ -2266,6 +2280,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &136162383
 GameObject:
   m_ObjectHideFlags: 0
@@ -2657,6 +2672,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &164080251
 GameObject:
   m_ObjectHideFlags: 0
@@ -2784,6 +2800,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &168098620
 GameObject:
   m_ObjectHideFlags: 0
@@ -2987,6 +3004,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &179389746
 GameObject:
   m_ObjectHideFlags: 0
@@ -3202,6 +3220,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &191643680
 GameObject:
   m_ObjectHideFlags: 0
@@ -3329,6 +3348,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &195109816
 GameObject:
   m_ObjectHideFlags: 0
@@ -3456,6 +3476,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &229697396
 GameObject:
   m_ObjectHideFlags: 0
@@ -3583,6 +3604,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &246114879
 GameObject:
   m_ObjectHideFlags: 0
@@ -3710,6 +3732,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &265399554
 GameObject:
   m_ObjectHideFlags: 0
@@ -3837,6 +3860,7 @@ MonoBehaviour:
   ui: {fileID: 1444421373}
   costText: {fileID: 1438747193}
   sellText: {fileID: 791561711}
+  upgradeBtn: {fileID: 1713329830}
 --- !u!1 &293979485
 GameObject:
   m_ObjectHideFlags: 0
@@ -3964,6 +3988,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &295152142
 GameObject:
   m_ObjectHideFlags: 0
@@ -4197,6 +4222,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &315246839
 GameObject:
   m_ObjectHideFlags: 0
@@ -4324,6 +4350,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &323231221
 GameObject:
   m_ObjectHideFlags: 0
@@ -4451,6 +4478,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &355552529
 GameObject:
   m_ObjectHideFlags: 0
@@ -4578,6 +4606,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &356113357
 GameObject:
   m_ObjectHideFlags: 0
@@ -4705,6 +4734,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &365333960
 GameObject:
   m_ObjectHideFlags: 0
@@ -4832,6 +4862,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &380645594
 GameObject:
   m_ObjectHideFlags: 0
@@ -4959,6 +4990,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &383639507
 GameObject:
   m_ObjectHideFlags: 0
@@ -5086,6 +5118,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &386046959
 GameObject:
   m_ObjectHideFlags: 0
@@ -5213,6 +5246,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &390141394
 GameObject:
   m_ObjectHideFlags: 0
@@ -5340,6 +5374,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &394963075
 GameObject:
   m_ObjectHideFlags: 0
@@ -5467,6 +5502,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &395719390
 GameObject:
   m_ObjectHideFlags: 0
@@ -5639,6 +5675,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &434755256
 GameObject:
   m_ObjectHideFlags: 0
@@ -5797,6 +5834,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &444777359
 GameObject:
   m_ObjectHideFlags: 0
@@ -6155,6 +6193,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &459029914
 GameObject:
   m_ObjectHideFlags: 0
@@ -6282,6 +6321,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &469263330
 GameObject:
   m_ObjectHideFlags: 0
@@ -6409,6 +6449,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &471656125
 GameObject:
   m_ObjectHideFlags: 0
@@ -6536,6 +6577,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &473759102
 GameObject:
   m_ObjectHideFlags: 0
@@ -6663,6 +6705,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &477534839
 GameObject:
   m_ObjectHideFlags: 0
@@ -6790,6 +6833,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &478950053
 GameObject:
   m_ObjectHideFlags: 0
@@ -6917,6 +6961,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &486985261
 GameObject:
   m_ObjectHideFlags: 0
@@ -7206,6 +7251,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &500512420
 GameObject:
   m_ObjectHideFlags: 0
@@ -7333,6 +7379,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &503228357
 GameObject:
   m_ObjectHideFlags: 0
@@ -7460,6 +7507,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &514785382
 GameObject:
   m_ObjectHideFlags: 0
@@ -7587,6 +7635,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &518751033
 GameObject:
   m_ObjectHideFlags: 0
@@ -7714,6 +7763,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &532103460
 GameObject:
   m_ObjectHideFlags: 0
@@ -7946,6 +7996,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &542242764
 GameObject:
   m_ObjectHideFlags: 0
@@ -8073,6 +8124,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &556735559
 GameObject:
   m_ObjectHideFlags: 0
@@ -8200,6 +8252,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &560828564
 GameObject:
   m_ObjectHideFlags: 0
@@ -8419,6 +8472,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &572686329
 GameObject:
   m_ObjectHideFlags: 0
@@ -8546,6 +8600,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &581616586
 GameObject:
   m_ObjectHideFlags: 0
@@ -8673,6 +8728,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &592656123
 GameObject:
   m_ObjectHideFlags: 0
@@ -8800,6 +8856,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &607140692
 GameObject:
   m_ObjectHideFlags: 0
@@ -8927,6 +8984,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &608009966
 GameObject:
   m_ObjectHideFlags: 0
@@ -9054,6 +9112,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &609868274
 GameObject:
   m_ObjectHideFlags: 0
@@ -9181,6 +9240,169 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
+--- !u!1 &613746901
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 613746902}
+  - component: {fileID: 613746907}
+  - component: {fileID: 613746906}
+  - component: {fileID: 613746905}
+  - component: {fileID: 613746904}
+  - component: {fileID: 613746903}
+  m_Layer: 5
+  m_Name: NextBtn
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &613746902
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 613746901}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1225997706}
+  m_Father: {fileID: 2106728235}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 135.36, y: -242.1}
+  m_SizeDelta: {x: 189.25, y: 87}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!225 &613746903
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 613746901}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
+--- !u!114 &613746904
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 613746901}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0, g: 0.5132427, b: 1, a: 0.5}
+  m_EffectDistance: {x: 1, y: -1}
+  m_UseGraphicAlpha: 1
+--- !u!114 &613746905
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 613746901}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_WrapAround: 0
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_SelectedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_SelectedTrigger: Selected
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 613746906}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 2106728234}
+        m_TargetAssemblyTypeName: WinLevel, Assembly-CSharp
+        m_MethodName: NextLevelBtnClicked
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &613746906
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 613746901}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &613746907
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 613746901}
+  m_CullTransparentMesh: 1
 --- !u!1 &640242167
 GameObject:
   m_ObjectHideFlags: 0
@@ -9308,6 +9530,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &640914502
 GameObject:
   m_ObjectHideFlags: 0
@@ -9435,6 +9658,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &645364277
 GameObject:
   m_ObjectHideFlags: 0
@@ -9562,6 +9786,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &651407736
 GameObject:
   m_ObjectHideFlags: 0
@@ -9742,6 +9967,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &654036495
 GameObject:
   m_ObjectHideFlags: 0
@@ -9869,6 +10095,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!114 &655984293 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 8292464793789488830, guid: 2d2fa031767ee5f46b9f6262ccc5977c, type: 3}
@@ -10007,6 +10234,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &666279815
 GameObject:
   m_ObjectHideFlags: 0
@@ -10134,6 +10362,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &674578882
 GameObject:
   m_ObjectHideFlags: 0
@@ -10340,6 +10569,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &694154919
 GameObject:
   m_ObjectHideFlags: 0
@@ -10467,6 +10697,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &697506952
 GameObject:
   m_ObjectHideFlags: 0
@@ -10689,6 +10920,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -10783,6 +11015,120 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+--- !u!1 &709243842
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 709243843}
+  - component: {fileID: 709243847}
+  - component: {fileID: 709243846}
+  - component: {fileID: 709243845}
+  - component: {fileID: 709243844}
+  m_Layer: 5
+  m_Name: WinText
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &709243843
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 709243842}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2106728235}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 191.8, y: 55.84778}
+  m_SizeDelta: {x: 824.8543, y: 141.6955}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!95 &709243844
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 709243842}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ade2b8a4bf093a94ba3ef1f2f53420d3, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!225 &709243845
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 709243842}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
+--- !u!114 &709243846
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 709243842}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 0, b: 0, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 107
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 0
+    m_MaxSize: 107
+    m_Alignment: 3
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: You WIN!
+--- !u!222 &709243847
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 709243842}
+  m_CullTransparentMesh: 1
 --- !u!1 &709268385
 GameObject:
   m_ObjectHideFlags: 0
@@ -10910,6 +11256,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &709588717
 GameObject:
   m_ObjectHideFlags: 0
@@ -11037,6 +11384,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &709833997
 GameObject:
   m_ObjectHideFlags: 0
@@ -11273,6 +11621,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &721699275
 GameObject:
   m_ObjectHideFlags: 0
@@ -11400,6 +11749,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &723218467
 GameObject:
   m_ObjectHideFlags: 0
@@ -11527,6 +11877,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &729984036
 GameObject:
   m_ObjectHideFlags: 0
@@ -11654,6 +12005,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &731624557
 GameObject:
   m_ObjectHideFlags: 0
@@ -11812,6 +12164,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &737293485
 GameObject:
   m_ObjectHideFlags: 0
@@ -11939,6 +12292,169 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
+--- !u!1 &744063839
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 744063840}
+  - component: {fileID: 744063845}
+  - component: {fileID: 744063844}
+  - component: {fileID: 744063843}
+  - component: {fileID: 744063842}
+  - component: {fileID: 744063841}
+  m_Layer: 5
+  m_Name: MenuButtom
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &744063840
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 744063839}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2089699960}
+  m_Father: {fileID: 2106728235}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -134.56, y: -242.1}
+  m_SizeDelta: {x: 189.25, y: 87}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!225 &744063841
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 744063839}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
+--- !u!114 &744063842
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 744063839}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0, g: 0.5132427, b: 1, a: 0.5}
+  m_EffectDistance: {x: 1, y: -1}
+  m_UseGraphicAlpha: 1
+--- !u!114 &744063843
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 744063839}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_WrapAround: 0
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_SelectedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_SelectedTrigger: Selected
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 744063844}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 2106728234}
+        m_TargetAssemblyTypeName: WinLevel, Assembly-CSharp
+        m_MethodName: MenuBtnClicked
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &744063844
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 744063839}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &744063845
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 744063839}
+  m_CullTransparentMesh: 1
 --- !u!1 &764908260
 GameObject:
   m_ObjectHideFlags: 0
@@ -12066,6 +12582,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &787220115
 GameObject:
   m_ObjectHideFlags: 0
@@ -12193,6 +12710,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &791561709
 GameObject:
   m_ObjectHideFlags: 0
@@ -12399,6 +12917,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &797396791
 GameObject:
   m_ObjectHideFlags: 0
@@ -12552,6 +13071,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   GameOverUI: {fileID: 143146743}
+  WinLevelUI: {fileID: 2106728233}
 --- !u!1 &817552332 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6388645851202463463, guid: c9b6be18aa4eaa04ba10e3c2829cd38c, type: 3}
@@ -12684,6 +13204,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &824660425
 GameObject:
   m_ObjectHideFlags: 0
@@ -13011,6 +13532,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &833531114
 GameObject:
   m_ObjectHideFlags: 0
@@ -13138,6 +13660,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &846383921
 GameObject:
   m_ObjectHideFlags: 0
@@ -13265,6 +13788,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &853973519
 GameObject:
   m_ObjectHideFlags: 0
@@ -13392,6 +13916,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!224 &854931666 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 7448618559838716564, guid: d66dec3600f73154d8b09d4beab04407, type: 3}
@@ -13524,6 +14049,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &855602514
 GameObject:
   m_ObjectHideFlags: 0
@@ -13651,6 +14177,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &860778312
 GameObject:
   m_ObjectHideFlags: 0
@@ -13778,6 +14305,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &863077201
 GameObject:
   m_ObjectHideFlags: 0
@@ -13905,6 +14433,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &877872327
 GameObject:
   m_ObjectHideFlags: 0
@@ -14032,6 +14561,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &893711621
 GameObject:
   m_ObjectHideFlags: 0
@@ -14159,6 +14689,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &905883084
 GameObject:
   m_ObjectHideFlags: 0
@@ -14286,6 +14817,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &915981399
 GameObject:
   m_ObjectHideFlags: 0
@@ -14547,6 +15079,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &917936592
 GameObject:
   m_ObjectHideFlags: 0
@@ -14642,6 +15175,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 143146744}
+  - {fileID: 2106728235}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -14776,6 +15310,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &929435571
 GameObject:
   m_ObjectHideFlags: 0
@@ -14903,6 +15438,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &932019258
 GameObject:
   m_ObjectHideFlags: 0
@@ -15030,6 +15566,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &948389749
 GameObject:
   m_ObjectHideFlags: 0
@@ -15157,6 +15694,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
@@ -15429,6 +15967,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &982395478
 GameObject:
   m_ObjectHideFlags: 0
@@ -15556,6 +16095,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!224 &988724502 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 7448618559838716564, guid: d66dec3600f73154d8b09d4beab04407, type: 3}
@@ -15688,6 +16228,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1010479518
 GameObject:
   m_ObjectHideFlags: 0
@@ -15815,6 +16356,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1011972886
 GameObject:
   m_ObjectHideFlags: 0
@@ -15942,6 +16484,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1012702348
 GameObject:
   m_ObjectHideFlags: 0
@@ -16069,6 +16612,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1025066385
 GameObject:
   m_ObjectHideFlags: 0
@@ -16196,6 +16740,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1027873827
 GameObject:
   m_ObjectHideFlags: 0
@@ -16323,6 +16868,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1033100785
 GameObject:
   m_ObjectHideFlags: 0
@@ -16450,6 +16996,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1041879327
 GameObject:
   m_ObjectHideFlags: 0
@@ -16682,6 +17229,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1048097724
 GameObject:
   m_ObjectHideFlags: 0
@@ -16809,6 +17357,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1051263290
 GameObject:
   m_ObjectHideFlags: 0
@@ -16936,6 +17485,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1061060381
 GameObject:
   m_ObjectHideFlags: 0
@@ -17094,6 +17644,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1065649023
 GameObject:
   m_ObjectHideFlags: 0
@@ -17221,6 +17772,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1066173413
 GameObject:
   m_ObjectHideFlags: 0
@@ -17453,6 +18005,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1066442380
 GameObject:
   m_ObjectHideFlags: 0
@@ -17822,6 +18375,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1074345174
 GameObject:
   m_ObjectHideFlags: 0
@@ -17949,6 +18503,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1083200848
 GameObject:
   m_ObjectHideFlags: 0
@@ -18152,6 +18707,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1098351098
 GameObject:
   m_ObjectHideFlags: 0
@@ -18279,6 +18835,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1099224308
 GameObject:
   m_ObjectHideFlags: 0
@@ -18406,6 +18963,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1107348842
 GameObject:
   m_ObjectHideFlags: 0
@@ -18533,6 +19091,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1119650893
 GameObject:
   m_ObjectHideFlags: 0
@@ -18660,6 +19219,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1122919714
 GameObject:
   m_ObjectHideFlags: 0
@@ -18787,6 +19347,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1126721166
 GameObject:
   m_ObjectHideFlags: 0
@@ -18892,6 +19453,37 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1126721166}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1130684620
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1130684621}
+  m_Layer: 0
+  m_Name: BulletPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1130684621
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1130684620}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 5.791253, z: 4.64}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1135983144
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19190,6 +19782,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1174401608
 GameObject:
   m_ObjectHideFlags: 0
@@ -19451,6 +20044,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1188703062
 GameObject:
   m_ObjectHideFlags: 0
@@ -19578,6 +20172,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1194906400
 GameObject:
   m_ObjectHideFlags: 0
@@ -19705,6 +20300,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1211435377
 GameObject:
   m_ObjectHideFlags: 0
@@ -19832,6 +20428,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1215332963
 GameObject:
   m_ObjectHideFlags: 0
@@ -19995,6 +20592,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1225858049
 GameObject:
   m_ObjectHideFlags: 0
@@ -20122,6 +20720,102 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
+--- !u!1 &1225997705
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1225997706}
+  - component: {fileID: 1225997709}
+  - component: {fileID: 1225997708}
+  - component: {fileID: 1225997707}
+  m_Layer: 5
+  m_Name: Text (Legacy)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1225997706
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1225997705}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 613746902}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1225997707
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1225997705}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0, g: 0.3293689, b: 0.99215686, a: 0.5}
+  m_EffectDistance: {x: 1, y: -1}
+  m_UseGraphicAlpha: 1
+--- !u!114 &1225997708
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1225997705}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 38
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 42
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: Next
+--- !u!222 &1225997709
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1225997705}
+  m_CullTransparentMesh: 1
 --- !u!1 &1233254683
 GameObject:
   m_ObjectHideFlags: 0
@@ -20249,6 +20943,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1236092094
 GameObject:
   m_ObjectHideFlags: 0
@@ -20376,6 +21071,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1246677113
 GameObject:
   m_ObjectHideFlags: 0
@@ -20451,6 +21147,110 @@ CanvasRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1246677113}
+  m_CullTransparentMesh: 1
+--- !u!1 &1248140974
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1248140975}
+  - component: {fileID: 1248140979}
+  - component: {fileID: 1248140978}
+  - component: {fileID: 1248140977}
+  - component: {fileID: 1248140976}
+  m_Layer: 5
+  m_Name: Background
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1248140975
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1248140974}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2106728235}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!111 &1248140976
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1248140974}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 0}
+  m_Animations: []
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
+--- !u!225 &1248140977
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1248140974}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
+--- !u!114 &1248140978
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1248140974}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0, g: 0, b: 0, a: 0.392}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1248140979
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1248140974}
   m_CullTransparentMesh: 1
 --- !u!1 &1275765205
 GameObject:
@@ -20579,6 +21379,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1282319449
 GameObject:
   m_ObjectHideFlags: 0
@@ -20706,6 +21507,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1291293152
 GameObject:
   m_ObjectHideFlags: 0
@@ -20833,6 +21635,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1298284191
 GameObject:
   m_ObjectHideFlags: 0
@@ -20960,6 +21763,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1304603775
 GameObject:
   m_ObjectHideFlags: 0
@@ -21087,6 +21891,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1311350153
 GameObject:
   m_ObjectHideFlags: 0
@@ -21214,6 +22019,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1321847715
 GameObject:
   m_ObjectHideFlags: 0
@@ -21341,6 +22147,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1001 &1328373352
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21596,6 +22403,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1332852061
 GameObject:
   m_ObjectHideFlags: 0
@@ -21723,6 +22531,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1340944942
 GameObject:
   m_ObjectHideFlags: 0
@@ -21955,6 +22764,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1389426718
 GameObject:
   m_ObjectHideFlags: 0
@@ -22082,6 +22892,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1396780112
 GameObject:
   m_ObjectHideFlags: 0
@@ -22209,6 +23020,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1398152150
 GameObject:
   m_ObjectHideFlags: 0
@@ -22367,6 +23179,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1405693694
 GameObject:
   m_ObjectHideFlags: 0
@@ -22494,6 +23307,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1409629853
 GameObject:
   m_ObjectHideFlags: 0
@@ -22621,6 +23435,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1412524236
 GameObject:
   m_ObjectHideFlags: 0
@@ -22748,6 +23563,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1428008224
 GameObject:
   m_ObjectHideFlags: 0
@@ -22875,6 +23691,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1435539616
 GameObject:
   m_ObjectHideFlags: 0
@@ -23002,6 +23819,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1438747191
 GameObject:
   m_ObjectHideFlags: 0
@@ -23208,6 +24026,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1444421373
 GameObject:
   m_ObjectHideFlags: 0
@@ -23511,6 +24330,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1474203774
 GameObject:
   m_ObjectHideFlags: 0
@@ -23638,6 +24458,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1478228102
 GameObject:
   m_ObjectHideFlags: 0
@@ -23765,6 +24586,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1488612463
 GameObject:
   m_ObjectHideFlags: 0
@@ -23892,6 +24714,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1492477576
 GameObject:
   m_ObjectHideFlags: 0
@@ -24112,6 +24935,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1506596578
 GameObject:
   m_ObjectHideFlags: 0
@@ -24137,7 +24961,7 @@ Transform:
   m_GameObject: {fileID: 1506596578}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -25.34, y: 1.28, z: 29.22}
+  m_LocalPosition: {x: -25.34, y: 1.28, z: 30}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -24271,6 +25095,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1527544826
 GameObject:
   m_ObjectHideFlags: 0
@@ -24398,6 +25223,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1530902329
 GameObject:
   m_ObjectHideFlags: 0
@@ -24525,6 +25351,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1537904931
 GameObject:
   m_ObjectHideFlags: 0
@@ -24652,6 +25479,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1543193863
 GameObject:
   m_ObjectHideFlags: 0
@@ -24858,6 +25686,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1547429118
 GameObject:
   m_ObjectHideFlags: 0
@@ -24985,6 +25814,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1548141123
 GameObject:
   m_ObjectHideFlags: 0
@@ -25112,6 +25942,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1548525386
 GameObject:
   m_ObjectHideFlags: 0
@@ -25239,6 +26070,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1548632431
 GameObject:
   m_ObjectHideFlags: 0
@@ -25366,6 +26198,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1553240796
 GameObject:
   m_ObjectHideFlags: 0
@@ -25493,6 +26326,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1557024889
 GameObject:
   m_ObjectHideFlags: 0
@@ -25581,16 +26415,28 @@ PrefabInstance:
       value: Barrel
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 6e604c269b8519d4486bbbc982b9afa9, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 6e604c269b8519d4486bbbc982b9afa9, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 6e604c269b8519d4486bbbc982b9afa9, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 6e604c269b8519d4486bbbc982b9afa9, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 6e604c269b8519d4486bbbc982b9afa9, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 0.97
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 6e604c269b8519d4486bbbc982b9afa9, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -1.61
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 6e604c269b8519d4486bbbc982b9afa9, type: 3}
       propertyPath: m_LocalRotation.w
@@ -25752,6 +26598,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1632077562
 GameObject:
   m_ObjectHideFlags: 0
@@ -25879,6 +26726,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1634916944
 GameObject:
   m_ObjectHideFlags: 0
@@ -26006,6 +26854,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1637313707
 GameObject:
   m_ObjectHideFlags: 0
@@ -26133,6 +26982,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1638359719
 GameObject:
   m_ObjectHideFlags: 0
@@ -26260,6 +27110,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1643981111
 GameObject:
   m_ObjectHideFlags: 0
@@ -26387,6 +27238,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1659856420
 GameObject:
   m_ObjectHideFlags: 0
@@ -26514,6 +27366,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1671994910
 GameObject:
   m_ObjectHideFlags: 0
@@ -26641,6 +27494,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1691055010
 GameObject:
   m_ObjectHideFlags: 0
@@ -26768,6 +27622,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1709993781
 GameObject:
   m_ObjectHideFlags: 0
@@ -26895,6 +27750,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1713329827
 GameObject:
   m_ObjectHideFlags: 0
@@ -27006,13 +27862,13 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 285462455}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
+      - m_Target: {fileID: 285462457}
+        m_TargetAssemblyTypeName: NodeUI, Assembly-CSharp
+        m_MethodName: UpgradeBtnClicked
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -27183,6 +28039,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1730349995
 GameObject:
   m_ObjectHideFlags: 0
@@ -27310,6 +28167,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1735781260
 GameObject:
   m_ObjectHideFlags: 0
@@ -27437,6 +28295,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1736195815
 GameObject:
   m_ObjectHideFlags: 0
@@ -27564,6 +28423,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1745862117
 GameObject:
   m_ObjectHideFlags: 0
@@ -27691,6 +28551,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1778818361
 GameObject:
   m_ObjectHideFlags: 0
@@ -27818,6 +28679,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1795014445
 GameObject:
   m_ObjectHideFlags: 0
@@ -27945,6 +28807,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1813876490
 GameObject:
   m_ObjectHideFlags: 0
@@ -28072,6 +28935,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1820342827
 GameObject:
   m_ObjectHideFlags: 0
@@ -28240,6 +29104,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1834120807
 GameObject:
   m_ObjectHideFlags: 0
@@ -28367,6 +29232,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1847127843
 GameObject:
   m_ObjectHideFlags: 0
@@ -28494,6 +29360,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1851409590
 GameObject:
   m_ObjectHideFlags: 0
@@ -28726,6 +29593,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1866179935
 GameObject:
   m_ObjectHideFlags: 0
@@ -28853,6 +29721,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1872905712
 GameObject:
   m_ObjectHideFlags: 0
@@ -28980,6 +29849,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1877374115
 GameObject:
   m_ObjectHideFlags: 0
@@ -29212,6 +30082,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1901229734
 GameObject:
   m_ObjectHideFlags: 0
@@ -29339,6 +30210,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1902582758
 GameObject:
   m_ObjectHideFlags: 0
@@ -29466,6 +30338,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!224 &1906304783 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 7448618559838716564, guid: d66dec3600f73154d8b09d4beab04407, type: 3}
@@ -29598,6 +30471,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1923772009
 GameObject:
   m_ObjectHideFlags: 0
@@ -29725,6 +30599,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1934923132
 GameObject:
   m_ObjectHideFlags: 0
@@ -29955,6 +30830,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1953990930
 GameObject:
   m_ObjectHideFlags: 0
@@ -30082,6 +30958,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1960003560
 GameObject:
   m_ObjectHideFlags: 0
@@ -30422,6 +31299,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &1988443532
 GameObject:
   m_ObjectHideFlags: 0
@@ -30617,6 +31495,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &2025027662
 GameObject:
   m_ObjectHideFlags: 0
@@ -30744,6 +31623,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &2033391180
 GameObject:
   m_ObjectHideFlags: 0
@@ -30871,6 +31751,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &2055614328
 GameObject:
   m_ObjectHideFlags: 0
@@ -30989,7 +31870,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   standardTurret:
     prefab: {fileID: 6509321241832194398, guid: c96fdee7aed048142bee0272824d1e18, type: 3}
-    upgradedPrefab: {fileID: 0}
+    upgradedPrefab: {fileID: 4172795529308162625, guid: 13297c718ed8e224d8f03838e729a33b, type: 3}
     cost: 100
     upgradeCost: 45
   missileLauncher:
@@ -31129,6 +32010,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &2061379709
 GameObject:
   m_ObjectHideFlags: 0
@@ -31256,6 +32138,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &2065842354
 GameObject:
   m_ObjectHideFlags: 0
@@ -31367,13 +32250,13 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 285462455}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
+      - m_Target: {fileID: 285462457}
+        m_TargetAssemblyTypeName: NodeUI, Assembly-CSharp
+        m_MethodName: SellBtnClicked
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -31544,6 +32427,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &2077841004
 GameObject:
   m_ObjectHideFlags: 0
@@ -31671,6 +32555,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &2080464546
 GameObject:
   m_ObjectHideFlags: 0
@@ -31798,6 +32683,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &2081353991
 GameObject:
   m_ObjectHideFlags: 0
@@ -31925,6 +32811,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!4 &2088853092 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2554758460958920656, guid: c9b6be18aa4eaa04ba10e3c2829cd38c, type: 3}
@@ -31951,6 +32838,102 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
+--- !u!1 &2089699959
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2089699960}
+  - component: {fileID: 2089699963}
+  - component: {fileID: 2089699962}
+  - component: {fileID: 2089699961}
+  m_Layer: 5
+  m_Name: Text (Legacy)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &2089699960
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2089699959}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 744063840}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &2089699961
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2089699959}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0, g: 0.3293689, b: 0.99215686, a: 0.5}
+  m_EffectDistance: {x: 1, y: -1}
+  m_UseGraphicAlpha: 1
+--- !u!114 &2089699962
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2089699959}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 38
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 42
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: Menu
+--- !u!222 &2089699963
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2089699959}
+  m_CullTransparentMesh: 1
 --- !u!1 &2100303714
 GameObject:
   m_ObjectHideFlags: 0
@@ -32027,6 +33010,59 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2100303714}
   m_CullTransparentMesh: 1
+--- !u!1 &2106728233
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2106728235}
+  - component: {fileID: 2106728234}
+  m_Layer: 5
+  m_Name: WinLevel
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!114 &2106728234
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2106728233}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bcd05b1569439f45870739e22896498, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneFader: {fileID: 655984293}
+--- !u!224 &2106728235
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2106728233}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1248140975}
+  - {fileID: 709243843}
+  - {fileID: 613746902}
+  - {fileID: 744063840}
+  m_Father: {fileID: 917936596}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &2116035960
 GameObject:
   m_ObjectHideFlags: 0
@@ -32154,6 +33190,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &2123711386
 GameObject:
   m_ObjectHideFlags: 0
@@ -32281,6 +33318,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &2129714577
 GameObject:
   m_ObjectHideFlags: 0
@@ -32408,6 +33446,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &2133055729
 GameObject:
   m_ObjectHideFlags: 0
@@ -32535,6 +33574,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &2133610412
 GameObject:
   m_ObjectHideFlags: 0
@@ -32662,6 +33702,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1 &2138309955
 GameObject:
   m_ObjectHideFlags: 0
@@ -32789,6 +33830,7 @@ MonoBehaviour:
     upgradedPrefab: {fileID: 0}
     cost: 0
     upgradeCost: 0
+  isUpgraded: 0
 --- !u!1001 &1061675358996844421
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -33082,3 +34124,4 @@ SceneRoots:
   - {fileID: 8463658384445848455}
   - {fileID: 285462456}
   - {fileID: 1506596579}
+  - {fileID: 1130684621}

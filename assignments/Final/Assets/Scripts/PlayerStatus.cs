@@ -10,7 +10,7 @@ public class PlayerStatus : MonoBehaviour
     public static int Lives;
     public static int Rounds;
 
-    private void Start()
+    private void Awake()
     {
         Money = StartMoney;
         Lives = StartLives;

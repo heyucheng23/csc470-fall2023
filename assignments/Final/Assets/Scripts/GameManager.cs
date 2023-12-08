@@ -5,7 +5,22 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
     public GameObject GameOverUI;
+    public GameObject WinLevelUI;
     public static bool GameIsOver;
+    private static GameManager _instance;
+
+    public static GameManager Instance
+    {
+        get
+        {
+            return _instance;
+        }
+    }
+
+    private void Awake()
+    {
+        _instance = this;
+    }
     // Start is called before the first frame update
     void Start()
     {
@@ -31,5 +46,11 @@ public class GameManager : MonoBehaviour
         GameIsOver = true;
         Debug.Log("Game over");
         GameOverUI.SetActive(true);
+    }
+
+    public void GameWin()
+    {
+        GameIsOver = true;
+        WinLevelUI.SetActive(true);
     }
 }

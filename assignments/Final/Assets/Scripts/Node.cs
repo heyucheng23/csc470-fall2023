@@ -13,6 +13,7 @@ public class Node : MonoBehaviour
     private GameObject turret;
     public Vector3 uiOffset = new Vector3(0,0,0);
     public TurretDesign selectedTurretDesign;
+    public bool isUpgraded = false;
 
     // Start is called before the first frame update
     void Start()
@@ -93,6 +94,7 @@ public class Node : MonoBehaviour
         Destroy(turret);
         GameObject _turret = Instantiate(selectedTurretDesign.upgradedPrefab,GetPosition(), Quaternion.identity);
         turret = _turret;
+        isUpgraded = true;
     }
 
     public void SellTurret()
@@ -100,5 +102,6 @@ public class Node : MonoBehaviour
         PlayerStatus.Money += selectedTurretDesign.SellAmount;
         Destroy(turret);
         selectedTurretDesign = null;
+        isUpgraded = false;
     }
 }

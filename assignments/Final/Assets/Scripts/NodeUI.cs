@@ -10,6 +10,7 @@ public class NodeUI : MonoBehaviour
     private Node target;
     public Text costText;
     public Text sellText;
+    public Button upgradeBtn;
     // Start is called before the first frame update
     void Start()
     {
@@ -57,8 +58,18 @@ public class NodeUI : MonoBehaviour
     {
         target = _target;
         transform.position = target.GetUiOffsetPosition();
-        costText.text = "   cost:" + target.selectedTurretDesign.upgradeCost;
+        if(target.isUpgraded)
+        {
+            costText.text = "Upgraded";
+            upgradeBtn.interactable = false;
+        }
+        else
+        {
+            costText.text = "   cost:" + target.selectedTurretDesign.upgradeCost;
+            upgradeBtn.interactable = true;
+        }
         sellText.text = "   sell" + "$" + target.selectedTurretDesign.SellAmount;
+        
     }
 
     public void UpgradeBtnClicked()

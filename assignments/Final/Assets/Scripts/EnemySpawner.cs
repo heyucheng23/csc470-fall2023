@@ -35,6 +35,8 @@ public class EnemySpawner : MonoBehaviour
         if(waveIndex == waveEnemy.Length)
         {
             Debug.Log("Win");
+            GameManager.Instance.GameWin();
+            this.enabled = false;
         }
         countDown -= Time.deltaTime;
         countDown = Mathf.Clamp(countDown,0,Mathf.Infinity);
