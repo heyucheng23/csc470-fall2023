@@ -473,7 +473,7 @@ MonoBehaviour:
   enemyTag: Enemy
   target: {fileID: 0}
   partRotate: {fileID: 5007535945931043260}
-  bulletPoint: {fileID: 0}
+  bulletPoint: {fileID: 3288652339429406794}
   rotSpeed: 10
   bulletPrefab: {fileID: 8038968686777107221, guid: 394e80cffd4cc9c409b6bb1746d6a2cb, type: 3}
   bulletRate: 2

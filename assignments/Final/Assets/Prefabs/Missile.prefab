@@ -45,9 +45,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5237183e4ecd1ba4bb9b08b93b15cafa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 50
+  speed: 80
   damage: 70
-  exploseRadius: 50
+  exploseRadius: 5
   bulletImpactEffect: {fileID: 4186699420162107546, guid: 100c2b573119220458de0b29f946e270, type: 3}
 --- !u!1001 &3093243208998347437
 PrefabInstance:
