@@ -222,7 +222,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6de8d261e32b3b4ca99afdfb66aa4a9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 12
+  startSpeed: 10
 --- !u!114 &-3932065436070717084
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -235,7 +235,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e252acf13125cd943b07118c52acbebd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  InitHealth: 100
+  InitHealth: 150
   hpBar: {fileID: 2947419094732339308}
 --- !u!1 &4603513152779459765
 GameObject:

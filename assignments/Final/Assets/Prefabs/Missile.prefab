@@ -47,6 +47,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 50
   damage: 70
+  exploseRadius: 50
+  bulletImpactEffect: {fileID: 4186699420162107546, guid: 100c2b573119220458de0b29f946e270, type: 3}
 --- !u!1001 &3093243208998347437
 PrefabInstance:
   m_ObjectHideFlags: 0

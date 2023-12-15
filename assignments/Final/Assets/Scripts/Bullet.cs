@@ -6,8 +6,9 @@ public class Bullet : MonoBehaviour
 {
     private Transform m_Target;
     public float speed = 80;
-    public float damage = 50;
-    public float exploseRadius = 10;
+    public float damage = 30;
+    public float exploseRadius = 50;
+    public GameObject bulletImpactEffect;
 
     public void SetTarget(Transform target)
     {
@@ -38,6 +39,8 @@ public class Bullet : MonoBehaviour
     }
     private void HitTarget()
     {   
+        GameObject bulletEffect = Instantiate(bulletImpactEffect, transform.position, Quaternion.identity);
+        Destroy(bulletEffect,0.5f);
         if(exploseRadius > 0)
         {
             Explose();
@@ -63,7 +66,7 @@ public class Bullet : MonoBehaviour
     }   
     private void EnemyDamage(Transform enemy)
     {
-        EnemyHealth enemyHp = m_Target.GetComponent<EnemyHealth>();
+        EnemyHealth enemyHp = enemy.GetComponent<EnemyHealth>();
         if(enemyHp != null)
         {
             enemyHp.Damage(damage);

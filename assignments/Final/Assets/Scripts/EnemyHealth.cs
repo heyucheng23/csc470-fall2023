@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class EnemyHealth : MonoBehaviour
 {
-    public float InitHealth = 100;
+    public float InitHealth = 1000;
     private float currentHealth;
     public Image hpBar;
     // Start is called before the first frame update

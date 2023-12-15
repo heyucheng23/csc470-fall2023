@@ -22188,6 +22188,14 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 7391459699830560267, guid: d66dec3600f73154d8b09d4beab04407, type: 3}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7391459699830560267, guid: d66dec3600f73154d8b09d4beab04407, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 14b99796b9f17f1428a7400b4f91b654, type: 3}
     - target: {fileID: 7448618559838716564, guid: d66dec3600f73154d8b09d4beab04407, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -24184,6 +24192,9 @@ MonoBehaviour:
   - enemyPrefab: {fileID: 9045112725270459496, guid: d113497efdd65c34389a930a6899104c, type: 3}
     count: 8
     rate: 4
+  - enemyPrefab: {fileID: 9045112725270459496, guid: d113497efdd65c34389a930a6899104c, type: 3}
+    count: 0
+    rate: 0
   enemyPrefab: {fileID: 3356995099196792680, guid: d92fb5de0d4c27d41a1fd19c0fe49a2f, type: 3}
   spawnInterval: 5
   spawnPoint: {fileID: 1506596579}

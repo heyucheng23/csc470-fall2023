@@ -1,36 +1,5 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &138268524318711935
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 4837056984452496656}
-  m_Layer: 0
-  m_Name: bulletPoint
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &4837056984452496656
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 138268524318711935}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.25, y: -0.2, z: 4.46}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 5007535945931043260}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &553043909676479371
 GameObject:
   m_ObjectHideFlags: 0
@@ -235,7 +204,7 @@ Transform:
   - {fileID: 3232974181676016879}
   - {fileID: 5126046131640104649}
   - {fileID: 2404556802088702193}
-  - {fileID: 4837056984452496656}
+  - {fileID: 3288652339429406794}
   m_Father: {fileID: 6792150788220798933}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &6971480983808986818
@@ -504,10 +473,47 @@ MonoBehaviour:
   enemyTag: Enemy
   target: {fileID: 0}
   partRotate: {fileID: 5007535945931043260}
-  bulletPoint: {fileID: 4837056984452496656}
-  bulletPrefab: {fileID: 8038968686777107221, guid: 394e80cffd4cc9c409b6bb1746d6a2cb, type: 3}
+  bulletPoint: {fileID: 0}
   rotSpeed: 10
+  bulletPrefab: {fileID: 8038968686777107221, guid: 394e80cffd4cc9c409b6bb1746d6a2cb, type: 3}
   bulletRate: 2
+  useLaser: 0
+  overTimeHp: 30
+  slowPct: 0.3
+  impactEffect: {fileID: 0}
+  pointLight: {fileID: 0}
+  lineRender: {fileID: 0}
+--- !u!1 &6895274709372255553
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3288652339429406794}
+  m_Layer: 0
+  m_Name: bulletPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3288652339429406794
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6895274709372255553}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.25, y: -0.20000029, z: 4.46}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5007535945931043260}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &7059329931077925492
 GameObject:
   m_ObjectHideFlags: 0

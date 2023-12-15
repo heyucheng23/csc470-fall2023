@@ -231,9 +231,15 @@ MonoBehaviour:
   target: {fileID: 0}
   partRotate: {fileID: 4437882363610988518}
   bulletPoint: {fileID: 2476356253114503072}
+  rotSpeed: 8
   bulletPrefab: {fileID: 127142343756458739, guid: 1878d91e853234443845b3fe75ac92a9, type: 3}
-  rotSpeed: 10
-  bulletRate: 1
+  bulletRate: 1.5
+  useLaser: 0
+  overTimeHp: 30
+  slowPct: 0.3
+  impactEffect: {fileID: 0}
+  pointLight: {fileID: 0}
+  lineRender: {fileID: 0}
 --- !u!1 &3817037304583126623
 GameObject:
   m_ObjectHideFlags: 0
